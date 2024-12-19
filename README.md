@@ -3,11 +3,10 @@ Spring을 사용하여 Jpa로 일정관리를 구현.
 
 ## API 명세서
    * User
-![Schedule_develop_User_API 명세서](https://github.com/user-attachments/assets/19688ab9-ba18-406c-a1ba-3a185571b21e)
+<img width="1011" alt="Schedule_develop_user_API 명세서" src="https://github.com/user-attachments/assets/a42e292b-ca5f-4216-89fd-7e1ab586dbca" />
 
    * Schedule
-![Schedule_develop_schedules_API 명세서](https://github.com/user-attachments/assets/42c0135f-6b9a-4662-ae0d-dab017759872)
-
+<img width="727" alt="Schedule_develop_schedule_API 명세서" src="https://github.com/user-attachments/assets/69ac27ad-2c21-4bf9-b1b2-5e0f549fe355" />
 
 ## ERD
 
