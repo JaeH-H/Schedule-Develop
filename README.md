@@ -9,5 +9,4 @@ Spring을 사용하여 Jpa로 일정관리를 구현.
 <img width="727" alt="Schedule_develop_schedule_API 명세서" src="https://github.com/user-attachments/assets/69ac27ad-2c21-4bf9-b1b2-5e0f549fe355" />
 
 ## ERD
-<img width="658" alt="Schedule_develop_ERD" src="https://github.com/user-attachments/assets/7bc86bac-1dcc-4a19-a007-077a832ed111" />
-
+<img width="783" alt="Schedule_develop_ERD" src="https://github.com/user-attachments/assets/67cd5c65-9e02-463a-a2bc-d142bf2ee647" />
